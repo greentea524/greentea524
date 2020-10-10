@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 💬 Ask me about anything
 
-📫 How to reach me: gtea524@outlook.com
+📫 How to reach me: drinkyourtea@yahoo.com
 
 ![Kedyn's github stats](https://github-readme-stats.vercel.app/api?username=greentea524&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greentea524&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
