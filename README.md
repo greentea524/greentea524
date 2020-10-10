@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=greentea524&repo=github-readme-stats)](https://github.com/greentea524/github-readme-stats)
+![Kedyn's github stats](https://github-readme-stats.vercel.app/api?username=greentea524&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greentea524&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
