@@ -11,8 +11,11 @@ Here are some ideas to get you started:
 -->
 
 🔭 I’m currently working on private projects
+
 🌱 I’m currently learning ReactJS
+
 💬 Ask me about anything
+
 📫 How to reach me: @davidphong_
 
 ![Kedyn's github stats](https://github-readme-stats.vercel.app/api?username=greentea524&count_private=true)
