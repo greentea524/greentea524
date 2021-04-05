@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 🔭 I’m currently working on private projects
 
-🌱 I’m currently learning ReactJS
+🌱 I’m currently learning Docker
 
 💬 Ask me about anything
 
