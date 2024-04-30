@@ -6,13 +6,13 @@
 Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
 🔭 I’m currently working on private projects
 
 🌱 I’m currently learning ReactJS
+-->
+
+
 
 <!--
 💬 Ask me about anything
